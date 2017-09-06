@@ -1,4 +1,16 @@
-+++ title = "Distribution évenementielle de Skycoin - Août 2017" tags = [ "Distribution", "Statement", ] date = "2017-07-23" categories = [ "Distribution", "Statement", ] description = "A Skycoin Distribution Event will be held August 8, 2017" +++
+++++
++title = "Distribution évenementielle de Skycoin - Août 2017"
++tags = [
+"Distribution",
+"Statement",
++]
++date = "2017-07-23"
++categories = [
+"Distribution",
+"Statement",
++]
++description = "Une distribution évenementielle de Skycoin a lieu le 8 Août 2017"
+++++
 
 Skycoin organise une [distribution évenementielle](https://www.skycoin.net/distribution/) le 8 août 2017 à partir de 12h00 GMT.
 
