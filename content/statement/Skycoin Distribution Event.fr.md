@@ -3,12 +3,12 @@ title = "Distribution évenementielle de Skycoin - Août 2017"
 tags = [
 "Distribution",
 "Statement",
-+]
+]
 date = "2017-07-23"
 categories = [
 "Distribution",
 "Statement",
-+]
+]
 description = "Une distribution évenementielle de Skycoin a lieu le 8 Août 2017"
 +++
 
