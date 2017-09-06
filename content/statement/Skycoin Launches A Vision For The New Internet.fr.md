@@ -1,4 +1,14 @@
-+++ title = "Skycoin lance une vision du Nouvel Internet" tags = [ "Statement", ] date = "2017-07-24" categories = [ "Statement", ] description = "" +++
++++ 
+title = "Skycoin lance une vision du Nouvel Internet"
+tags = [ 
+  "Statement", 
+] 
+date = "2017-07-24" 
+categories = [ 
+  "Statement",
+] 
+description = "Skycoin lance une vision du Nouvel Internet" 
++++
 
 Skycoin, une Crypto-Monnaie nouvelle génération en développement depuis plus de 4 ans, se découvre au public en Juillet. Le projet Skycoin cherche à populariser les réseaux décentralisés en réglant les problèmes rencontrés par le Bitcoin. Plus de 80 développeurs sur Github et ailleurs ont contribué à ce projet depuis 2012.
 
