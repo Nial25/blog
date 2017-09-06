@@ -1,4 +1,14 @@
-+++ title = "Skycoin vs Skywire" tags = [ "Skywire", ] date = "2017-08-30" categories = [ "Skywire", "Statement", ] +++
++++ 
+title = "Skycoin vs Skywire"
+tags = [
+  "Skywire",
+]
+date = "2017-08-30"
+categories = [
+  "Skywire",
+  "Statement",
+]
++++
 
 Skycoin et Skywire sont 2 composants distincts du projet Skycoin. Skycoin est la blockchain tandis que Skywire est le [réseau maillé](https://fr.wikipedia.org/wiki/Topologie_de_r%C3%A9seau#Le_r.C3.A9seau_maill.C3.A9)
 
