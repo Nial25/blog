@@ -16,7 +16,7 @@ Skycoin est une monnaie rapide, sécurisée et fiable pour les transactions en l
 
 Les principales caractéristiques de Skycoin sont sa vitesse, sa confidentialité, sa sécurité et son écosystème.
 
-En terme de vitesse, Skycoin est en concurrence directe avec les cartes de crédit et Apple Pay. Les transactions se produisent en quelques secondes. Cela rend la monnaie appropriée pour les transactions en points de vente et IOT (Internet of Things).
+En terme de vitesse, Skycoin est en concurrence directe avec les cartes de crédit et Apple Pay. Les transactions se produisent en quelques secondes. Cela rend la monnaie appropriée pour les transactions en points de vente et IdO (Internet des Objets).
 
 Les transactions de Skycoin sont 100% privées et anonymes grâce à l'utilisation du protocole CoinJoin qui mélange les transactions de plusieurs portefeuilles.  Skycoin fournit également un paramètre de transaction sécurisé qui utilise le cryptage pour se protéger contre l'[attaque des 51%](https://fr.wikipedia.org/wiki/Attaque_des_51%25) et d'autres menaces communes.
 
