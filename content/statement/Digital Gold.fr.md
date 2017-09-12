@@ -9,15 +9,14 @@ categories = [
 ]
 +++
 
-La vision originale de Satoshi pour le Bitcoin était révolutionnaire. Une monnaie mondiale qui existait au-dessus des nations,
+La vision originale de Satoshi pour le Bitcoin était révolutionnaire. Une monnaie mondiale qui existait au-delà des nations,
 hors de portée des groupes de pouvoir et sans inflation aurait dû faire trembler le
-le monde financier jusque dans son cœur. Mais la vision a échoué. Au lieu d'inaugurer une nouvelle ère de
+le monde financier jusque dans ses fondations. Mais la vision a échoué. Au lieu d'inaugurer une nouvelle ère de
 décentralisation, le Bitcoin est devenu centralisé. Puissance concentrée en trois grands
 groupes de mineur, vitesse de transaction ralentie en heures, les taxes qui ont grimpé en flèche à leur niveau actuel de 40$...
-Aujourd'hui, il est clair que Bitcoin n'a pas respecté sa promesse d'une monnaie digitale décentralisée.
+Aujourd'hui, tout indique que le Bitcoin n'a pas respecté sa promesse d'une monnaie digitale décentralisée.
 
-Skycoin est là pour réparer cela. Au cours des cinq dernières années, l'équipe de recherche et de développement du projet Skycoin a travaillé 
-à trouver des moyens novateurs pour améliorer les algorithmes PoW / PoS existants.
+Skycoin est là pour réparer cela. Au cours des cinq dernières années, l'équipe de recherche et de développement du projet Skycoin a travaillé à trouver des moyens novateurs pour améliorer les algorithmes PoW / PoS existants.
 Le nouvel algorithme de consensus de Skycoin redonne le contrôle du réseau aux utilisateurs. Il restaure la vision originale de Satoshi, ouvrant la voie à une adoption massive de crypto-monnaie qui remplacera le système bancaire existant.
 
 Les caractéristiques uniques du Skycoin la distinguent des autres crypto-monnaies. Contrairement aux monnaies digitales les plus récentes, 
