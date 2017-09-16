@@ -19,7 +19,7 @@ La version 3.1 de Skycoin BBS a enfin été publiée !
 - Réimplémentation de la structure de données CXO pour une gestion plus facile des diff.
 - Introduction d'un module "views" pour une implémentation plus facile de différentes manières de regarder les données.
 - Implémentation des tableaux d'exportation et d'importation vers ou depuis un fichier.
-- Implémentation initiale du suivi/éviter des utilisateurs.
+- Implémentation initiale du suivi/blocage d'utilisateur.
 - Amélioration de l'interface utilisateur (Travail toujours en cours).
 - Relai peer-to-peer automatique des tableaux.
 
