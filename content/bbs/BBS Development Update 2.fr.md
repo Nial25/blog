@@ -77,4 +77,4 @@ Au moment de cette publication, ceci est presque terminé. Voici une vidéo sur 
 [![Démonstration 4 du BBS de Skycoin](https://i.ytimg.com/vi/Oue3WVkmGh4/0.jpg)](https://youtu.be/Oue3WVkmGh4)
 
 
-Pour être tenu au courant du développement de Skycoin BBS, rejoignez notre [Communauté Skycoin BBS](https://t.me/skycoinbbs) sur Telegram ou continuer à surveiller notre blog.
+Pour être tenu au courant du développement de Skycoin BBS, rejoignez notre [Communauté Skycoin BBS](https://t.me/skycoinbbs) sur Telegram ou continuez à surveiller notre blog.
