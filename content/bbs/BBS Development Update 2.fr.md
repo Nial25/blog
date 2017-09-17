@@ -18,12 +18,12 @@ Les changements sont les suivants :
 - Utilise la dernière version de CXO (base de données auto-réplicante pair à pair).
 - Réimplémentation des objets et de l'arbre du CXO (en préparation pour de nouvelles fonctionnalités)
 - Introduction à un module de "vues" pour faciliter l'implémentation de différentes façons de "visualiser" le contenu.
-- Implémentation initiale de suivi/évitement d'un utilisateur
-- UI complètement rénové
+- Implémentation initiale de suivi/blocage d'un utilisateur
+- Interface utilisateur complètement réaménagée
 
 ## Modifications du CXO
 
-CXO a été sérieusement refacturé pour être plus rapide et plus stable. L'API a été conçue pour mieux fonctionner avec les tableaux de hash - avec un temps d'accès constant, une réplication plus rapide et la possibilité d'accéder à un élément directement avec un hash donné.
+CXO a été sérieusement remanié pour être plus rapide et plus stable. L'API a été conçue pour mieux fonctionner avec les tableaux de hash - avec un temps d'accès constant, une réplication plus rapide et la possibilité d'accéder à un élément directement avec un hash donné.
 
 Ces modifications ont également incité BBS à modifier la majorité de son code source.
 
@@ -43,9 +43,9 @@ L'objet `RootPage` détermine le type de racine. Pour l'instant, toutes les donn
 
 À l'avenir, «BoardPage» contiendra une liste de clés publiques au lieu d'hrefs pour les sujets, car les sujets auront leurs propres racines. Cela rend les sujets faciles à migrer entre les groupes.
 
-`DiffPage` est utilisé pour déterminer les changements entre les séquences racines pour la racine` BoardPage`. Il s'agit essentiellement d'un ensemble de tableaux toujours croissants, où une augmentation de longueur est interprétée comme des changements.
+`DiffPage` est utilisé pour déterminer les changements entre les séquences racines pour la racine de`BoardPage`. Il s'agit essentiellement d'un ensemble de tableaux toujours croissants, où une augmentation de longueur est interprétée comme des changements.
 
-`UsersPage` deviendra une liste de clés publiques (elles seront comme «participants» au sein d'un groupe). Chaque utilisateur aura sa propre racine.
+`UsersPage` deviendra une liste de clés publiques (elles seront comme des «participants» au sein d'un groupe). Chaque utilisateur aura sa propre racine.
 
 ## Impémentation du module de Vues 
 
@@ -65,9 +65,9 @@ type View interface {
 }
 ```
 
-Actuellement, toutes les vues compilées sont stockées en mémoire. Mais cela deviendra impossible lorsque notre base d'utilisateurs augmentera. Les vues seront stockées dans un emplacement clé->valeur sur disque dans les versions ultérieures.
+Actuellement, toutes les vues compilées sont stockées en mémoire. Mais cela deviendra peu pratique lorsque notre base d'utilisateurs augmentera. Les vues seront stockées dans un emplacement clé->valeur sur disque dans les versions ultérieures.
 
-Pour la version 0.2, il existe deux implémentations `View`; un pour le contenu (groupes / sujets / messages / votes) et un pour la compilation d'une liste de suivi / évitement par utilisateur.
+Pour la version 0.2, il existe deux implémentations `View`; un pour le contenu (groupes / sujets / messages / votes) et un pour la compilation d'une liste de suivi/blocage par utilisateur.
 
 ## Une nouvelle expérience utilisateur 
 
@@ -77,5 +77,4 @@ Au moment de cette publication, ceci est presque terminé. Voici une vidéo sur 
 [![Démonstration 4 du BBS de Skycoin](https://i.ytimg.com/vi/Oue3WVkmGh4/0.jpg)](https://youtu.be/Oue3WVkmGh4)
 
 
-
-To keep up to date with Skycoin BBS development, watch this space and join our [Skycoin BBS Community](https://t.me/skycoinbbs) on Telegram.
+Pour être tenu au courant du développement de Skycoin BBS, rejoignez notre [Communauté Skycoin BBS](https://t.me/skycoinbbs) sur Telegram ou continuer à surveiller notre blog.
